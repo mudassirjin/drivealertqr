@@ -1,0 +1,4 @@
+{
+  "/page": "app/page.js",
+  "/scan/[qr_id]/page": "app/scan/[qr_id]/page.js"
+}
